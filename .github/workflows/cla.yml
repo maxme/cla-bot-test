@@ -17,7 +17,7 @@ jobs:
           path-to-signatures: 'signatures/v1/cla.json'
           path-To-cladocument: 'https://github.com/maxme/cla-bot-test/blob/master/CLA.md'
           # branch should not be protected
-          branch: 'develop'
+          branch: 'master'
           whitelist: maxme
           empty-commit-flag: false
           blockchain-storage-flag: false
